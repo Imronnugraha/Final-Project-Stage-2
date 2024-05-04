@@ -11,10 +11,10 @@ Data awal : Original Exited (0=5485    1= 1416)
 Data Setelah : Original Exited (0=5485    1= 5485)
 
 
-- Feature Extraction
-Balance_to_Salary_Ratio: Rasio antara saldo akun dan estimasi gaji pelanggan. Fitur ini mungkin dapat memberikan wawasan tentang bagaimana proporsi saldo akun pelanggan dibandingkan dengan besarnya estimasi gaji mereka.
+#### Feature Extraction
+- Balance_to_Salary_Ratio: Rasio antara saldo akun dan estimasi gaji pelanggan. Fitur ini mungkin dapat memberikan wawasan tentang bagaimana proporsi saldo akun pelanggan dibandingkan dengan besarnya estimasi gaji mereka.
 Jika rasio ini tinggi, mungkin menunjukkan bahwa pelanggan memiliki saldo yang besar dibandingkan dengan pendapatannya, yang bisa menjadi indikasi kestabilan finansial atau potensi untuk menjadi nasabah yang berharga bagi bank.
 
-Age_to_Tenure_Ratio: Rasio antara usia pelanggan dan masa jabatan (tenure) mereka di bank. Fitur ini dapat memberikan informasi tentang seberapa lama pelanggan telah menjadi nasabah bank relatif terhadap usia mereka.
+- Age_to_Tenure_Ratio: Rasio antara usia pelanggan dan masa jabatan (tenure) mereka di bank. Fitur ini dapat memberikan informasi tentang seberapa lama pelanggan telah menjadi nasabah bank relatif terhadap usia mereka.
 Hal ini dapat membantu dalam memahami tingkat loyalitas pelanggan atau seberapa lama mereka telah terlibat dalam hubungan dengan bank.
 
